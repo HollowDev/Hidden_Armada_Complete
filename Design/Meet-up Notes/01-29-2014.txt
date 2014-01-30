@@ -1,0 +1,31 @@
+- Menus going off of Joe's concepts. (Will post pictures soon)
+- Mode:
+	- Story Mode: 
+		- FTL/Binding of Isaac system for sectors and levels.
+		- Weapons: the combination/upgrade system
+		- Special for each ship
+		- Random bosses, every other stage.
+		- Map pools.
+		- Random sector map.
+		- Difficulty select.
+		- Random zones.
+	- Infinity <has advanced options>: 
+		- Play until you want to quit. Can die as often as you want. Just for fun.
+	- Survival <has advanced options> <beat to story mode to unlock>: 
+		- YOLO, leaderboards for set difficulties. (easy, medium, hard, CRAZY)
+	- Hardcore <survive survival for 5 minutes to unlock>: 
+		- Evan + Danny version: Leaderboards based on time you survived.
+	- Competitive Multiplayer: Hoard, Tether, Capture the Flag.
+- Online Features:
+	- All time, Monthly, Daily Leaderboards.
+	- Weekly challenge Leaderboards.
+- Controls:
+	- Reveal is now an AOE blast.
+- Discuss/Test:
+	- Possible pickups in game? Like a rage mode pickup. Weirds powerups, make
+		the game more enjoyable.
+	- Minimap or indicators?
+	
+- Upgrades:
+	System upgrades <find in level somewhere>: fire rate, sensor, boost, shield recharge
+	Weapon Upgrades <find after level is complete>: system I made in doc.
