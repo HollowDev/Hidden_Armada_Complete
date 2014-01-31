@@ -1,0 +1,21 @@
+Who is taking what segment of the art:
+	Danny: Enemy Ships, Environments
+	Vanessa: Effects, Upgrade Icons
+	Will: Player ships, Menu/HUD
+
+Statistics for the player survival
+	- Shows player kills/time during current play VS high score play
+	- Shows a bar that fills to the distance the player was to their high score.
+
+Player level
+	- Gains experience for every game completed. Experience earns them levels/ranks.
+	- Per X*(level_ratio) number of levels they will receive a reward.
+	- Rewards are purely aesthetic, ranging from weapon skins, ship skins, explosion effects, etc.
+
+Chainsaw mode:
+	- A gameplay mode available only in the Advanced options tag.
+	- Players cannot shoot and must boost through enemies to kill them.
+	- Ships have chainsaw blades attached all around them.
+
+Changing back to DX9
+	- Produce game faster and prettier.
